@@ -2,7 +2,7 @@ package co.com.bancolombia.events;
 
 
 import co.com.bancolombia.model.personmodel.PersonModel;
-import co.com.bancolombia.usecase.person.gateway.EventPublisher;
+import co.com.bancolombia.usecase.person.gateways.EventPublisher;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.amqp.rabbit.core.RabbitTemplate;

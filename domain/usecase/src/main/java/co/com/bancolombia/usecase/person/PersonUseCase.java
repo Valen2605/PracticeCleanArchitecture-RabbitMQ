@@ -2,7 +2,7 @@ package co.com.bancolombia.usecase.person;
 
 import co.com.bancolombia.model.personmodel.PersonModel;
 import co.com.bancolombia.model.personmodel.gateways.PersonModelRepository;
-import co.com.bancolombia.usecase.person.gateway.EventPublisher;
+import co.com.bancolombia.usecase.person.gateways.EventPublisher;
 import lombok.RequiredArgsConstructor;
 import reactor.core.publisher.Mono;
 

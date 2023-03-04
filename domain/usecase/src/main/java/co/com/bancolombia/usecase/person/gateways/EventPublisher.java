@@ -1,4 +1,4 @@
-package co.com.bancolombia.usecase.person.gateway;
+package co.com.bancolombia.usecase.person.gateways;
 
 import co.com.bancolombia.model.personmodel.PersonModel;
 
